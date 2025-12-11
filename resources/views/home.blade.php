@@ -9,9 +9,13 @@
 
 </head>
 <body>
-    <a href="/about">About Page</a>
     <h1>THIS IS HOME !</h1>
-    <img src="images/uang.png" alt="uang" width="200" height="100">
-    <script src="js/spt.js"></script>
+    <img src="images/uang.png" alt="uang" width="200" height="50">
+    <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/contact">Contact</a></li>
+    </ul>
+    {{-- <script src="js/spt.js"></script> --}}
 </body>
 </html>
